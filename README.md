@@ -1,1 +1,1 @@
-this is to test antigravity and version control
+this is a tutorial on how to use git and github and antigravity
